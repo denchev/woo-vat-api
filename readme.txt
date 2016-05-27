@@ -1,4 +1,4 @@
-=== Plugin Name ===
+=== WooCommerce VAT to API ===
 Contributors: antubis
 Donate link: 
 Tags: woocommerce, vat, api
