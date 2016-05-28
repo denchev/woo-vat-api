@@ -2,7 +2,7 @@
 
 /**
  * Plugin Name: Woocommerce VAT to API
- * Description: Show VAT number as part of billing address in the WooCommerce API
+ * Description: Show VAT number as part of billing address in the WooCommerce API (Requires Booster for WooCommerce)
  * Version: 1.0.1
  * License: GPL-3.0
  * License URI: http://www.gnu.org/licenses/gpl-3.0.txt

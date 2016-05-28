@@ -16,9 +16,9 @@ This plugin extends WooCommerce and Booster for WooCommerce. It adds a new key "
 
 == Installation ==
 
-1. Upload `woocommerce-vat-to-api` folder to the `/wp-content/plugins/` directory
+1. Upload `woo-vat-api` folder to the `/wp-content/plugins/` directory
 2. Activate the plugin through the 'Plugins' menu in WordPress
-3. Follow normal instructions how to activate WooCommerce API
+3. Install WooCommerce and Booster for WooCommerce
 
 == Frequently Asked Questions ==
 
