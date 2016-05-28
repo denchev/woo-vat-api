@@ -26,6 +26,9 @@ This plugin extends WooCommerce and Booster for WooCommerce. It adds a new key "
 
 == Changelog ==
 
+= 1.0.1 =
+Compatibility changes.
+
 = 1.0.0 =
 Initial plugin version release.
 
